@@ -322,10 +322,10 @@ Delete A Lot Of Messages From Groups!
 • /share - 𝚁𝚎𝚙𝚕𝚢 𝚆𝚒𝚝𝚑 𝙰𝚗𝚢 𝚃𝚎𝚡𝚝 𝚃𝚘 𝚂𝚎𝚗𝚍 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 """
 
 
-
-
+IMDB_TEMPLATE_TXT = """
+<b>🔖 ᴛɪᴛʟᴇ :<a href={url}>{title}</a>
     
-
-
+🎭 ɢᴇɴʀᴇs : {genres}
+⭐️ 𝐑ᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10 (ʙᴀsᴇᴅ ᴏɴ {votes} ᴜsᴇʀ ʀᴀᴛɪɴɢ.)
     
 
