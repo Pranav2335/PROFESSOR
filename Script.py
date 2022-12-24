@@ -325,11 +325,11 @@ Delete A Lot Of Messages From Groups!
 IMDB_TEMPLATE_TXT = """
 <b>🔖 ᴛɪᴛʟᴇ :<a href={url}>{title}</a>
     
-🎭 ɢᴇɴʀᴇs : {genres}
+🎭 𝙶𝙴𝙽𝚁𝙴𝚂 : {genres}
 ⭐️ 𝐑ᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10 (ʙᴀsᴇᴅ ᴏɴ {votes} ᴜsᴇʀ ʀᴀᴛɪɴɢ.)
     
 📆 ʏᴇᴀʀ : {release_date}
-🗞 ʟᴀɴɢᴜᴀɢᴇ : {languages}
+🎙 ʟᴀɴɢᴜᴀɢᴇ : {languages}
 🌎 ᴄᴏᴜɴᴛʀʏ : {countries}
 📖 𝚂𝚃𝙾𝚁𝚈 : {plot}
 
