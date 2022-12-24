@@ -30,7 +30,7 @@ class script(object):
 
 <code>/batch https://t.me/Owner_PM_Bot https://t.me/Owner_PM_Bot</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Owner_PM_Bot><b>𝙿𝚁𝚅 𝙱𝙾𝚃𝚉</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
