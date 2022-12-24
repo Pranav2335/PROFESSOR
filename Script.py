@@ -328,4 +328,10 @@ IMDB_TEMPLATE_TXT = """
 🎭 ɢᴇɴʀᴇs : {genres}
 ⭐️ 𝐑ᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10 (ʙᴀsᴇᴅ ᴏɴ {votes} ᴜsᴇʀ ʀᴀᴛɪɴɢ.)
     
+📆 ʏᴇᴀʀ : {release_date}
+🗞 ʟᴀɴɢᴜᴀɢᴇ : {languages}
+🌎 ᴄᴏᴜɴᴛʀʏ : {countries}
+📖 𝚂𝚃𝙾𝚁𝚈 : {plot}
 
+©{message.chat.title}</b>
+ """
