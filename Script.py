@@ -335,3 +335,12 @@ IMDB_TEMPLATE_TXT = """
 
 ©{message.chat.title}</b>
  """
+
+CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜꜱ ════╗
+▪️<a href=https://t.me/Prv_35> 𝙼ᴏᴠɪᴇ 𝙷𝚄𝙱 </a>
+▪️<a href=https://t.me/kmtz_v4> 𝚁ᴇǫᴜᴇ𝚜ᴛ ᴍᴏᴠɪᴇꜱ </a>
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜꜱ ════╝
+
+🎗️ʝσιи 🎗️ ѕнαяє🎗️ support🎗️</b>"""
